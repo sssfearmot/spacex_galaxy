@@ -1,21 +1,21 @@
-import React from 'react'
-import {Routes, Route} from 'react-router-dom'
-import Contact from './routes/Contact';
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
 
-import Home from './routes/Home'
-import Pricing from './routes/Pricing'
+import Contact from './routes/Contact';
+import Home from './routes/Home';
+import Pricing from './routes/Pricing';
 import Training from './routes/Training';
-import PhotoStream from './routes/PhotoStream'
+import PhotoStream from './routes/PhotoStream';
 
 function App() {
   return (
     <>
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/*' element={<Home />} />
         <Route path='/pricing' element={<Pricing />} />
         <Route path='/training' element={<Training />} />
         <Route path='/contact' element={<Contact />} />
-        <Route path='/photostream' element={<PhotoStream/>} />
+        <Route path='/photostream' element={<PhotoStream />} />
       </Routes>
     </>
   );
