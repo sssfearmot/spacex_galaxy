@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/spacex_galaxy/static/css/main.4481df09.css",
+    "main.js": "/spacex_galaxy/static/js/main.5e176e3d.js",
+    "static/js/526.3cbc2012.chunk.js": "/spacex_galaxy/static/js/526.3cbc2012.chunk.js",
+    "static/js/232.67edcd1b.chunk.js": "/spacex_galaxy/static/js/232.67edcd1b.chunk.js",
+    "static/media/space.mp4": "/spacex_galaxy/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/moon.jpg": "/spacex_galaxy/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/spacex_galaxy/static/media/pod.30776f82b7df80237211.jpg",
+    "static/media/SpaceX-Logo.wine.svg": "/spacex_galaxy/static/media/SpaceX-Logo.wine.fa9ba07d02c66575a5fb128c73f2a35a.svg",
+    "index.html": "/spacex_galaxy/index.html",
+    "main.4481df09.css.map": "/spacex_galaxy/static/css/main.4481df09.css.map",
+    "main.5e176e3d.js.map": "/spacex_galaxy/static/js/main.5e176e3d.js.map",
+    "526.3cbc2012.chunk.js.map": "/spacex_galaxy/static/js/526.3cbc2012.chunk.js.map",
+    "232.67edcd1b.chunk.js.map": "/spacex_galaxy/static/js/232.67edcd1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4481df09.css",
+    "static/js/main.5e176e3d.js"
+  ]
+}
