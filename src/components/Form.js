@@ -5,13 +5,13 @@ const Form = () => {
     return (
         <div className='form'>
             <form>
-                <label>Your Name</label>
+                <label><sup>*</sup>이름 (your name)</label>
                 <input type='text'></input>
-                <label>Email</label>
+                <label><sup>*</sup>이메일 (email)</label>
                 <input type='email'></input>
-                <label>Subject</label>
+                <label><sup>*</sup>제목 (subject)</label>
                 <input type='text'></input>
-                <label>Details</label>
+                <label><sup>*</sup>내용 (details)</label>
                 <textarea rows='6' placeholder='Type a short message here' />
                 <button className='btn'>Submit</button>
             </form>

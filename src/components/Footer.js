@@ -31,7 +31,18 @@ const Footer = () => {
                         <FaLinkedin size={30} style={{ color: '#ffffff', marginRight: '1rem' }} />
                     </div>
                 </div>
-
+            </div>
+            <div className='footer_center'>
+                <p>
+                    <span>SPACEX © 2022</span>
+                    <a href='#!'>TIWTTER</a>
+                    <a href='#!'>YOUTUBE</a>
+                    <a href='#!'>INSTAGRAM</a>
+                    <a href='#!'>FLICKR</a>
+                    <a href='#!'>LINKEDIN</a>
+                    <a href='#!'>PRIVACY POLICY</a>
+                    <a href='#!'>SUPPLIERS</a>
+                </p>
             </div>
         </div>
     )

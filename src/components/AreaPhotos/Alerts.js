@@ -15,5 +15,5 @@ export function ErrorAlert() {
 
 
 export function PhotoNotFoundAlert() {
-    return <span id="photoNotFoundAlert" className="alerts">No photo referring to this date.... :/</span>;
+    return <span id="photoNotFoundAlert" className="alerts">이 날짜를 나타내는 사진이 없습니다.... :/</span>;
   }
