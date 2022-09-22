@@ -18,7 +18,7 @@ function App() {
         <Route path='/photostream' element={<PhotoStream />} />
       </Routes>
     </>
-  );
+  )
 }
 
 export default App;

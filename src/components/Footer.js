@@ -35,13 +35,13 @@ const Footer = () => {
             <div className='footer_center'>
                 <p>
                     <span>SPACEX © 2022</span>
-                    <a href='#!'>TIWTTER</a>
-                    <a href='#!'>YOUTUBE</a>
-                    <a href='#!'>INSTAGRAM</a>
-                    <a href='#!'>FLICKR</a>
-                    <a href='#!'>LINKEDIN</a>
-                    <a href='#!'>PRIVACY POLICY</a>
-                    <a href='#!'>SUPPLIERS</a>
+                    <a href="javascript:void(0);">TIWTTER</a>
+                    <a href="javascript:void(0);">YOUTUBE</a>
+                    <a href="javascript:void(0);">INSTAGRAM</a>
+                    <a href="javascript:void(0);">FLICKR</a>
+                    <a href="javascript:void(0);">LINKEDIN</a>
+                    <a href="javascript:void(0);">PRIVACY POLICY</a>
+                    <a href="javascript:void(0);">SUPPLIERS</a>
                 </p>
             </div>
         </div>
