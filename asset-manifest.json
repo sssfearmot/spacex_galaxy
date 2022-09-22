@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spacex_galaxy/static/css/main.64d2849e.css",
-    "main.js": "/spacex_galaxy/static/js/main.cb023a3a.js",
+    "main.css": "/spacex_galaxy/static/css/main.cb5e1e83.css",
+    "main.js": "/spacex_galaxy/static/js/main.9f613f7b.js",
     "static/js/526.3cbc2012.chunk.js": "/spacex_galaxy/static/js/526.3cbc2012.chunk.js",
     "static/js/232.67edcd1b.chunk.js": "/spacex_galaxy/static/js/232.67edcd1b.chunk.js",
     "static/media/space.mp4": "/spacex_galaxy/static/media/space.41584ed51700d249bf73.mp4",
@@ -9,13 +9,13 @@
     "static/media/pod.jpg": "/spacex_galaxy/static/media/pod.30776f82b7df80237211.jpg",
     "static/media/SpaceX-Logo.wine.svg": "/spacex_galaxy/static/media/SpaceX-Logo.wine.fa9ba07d02c66575a5fb128c73f2a35a.svg",
     "index.html": "/spacex_galaxy/index.html",
-    "main.64d2849e.css.map": "/spacex_galaxy/static/css/main.64d2849e.css.map",
-    "main.cb023a3a.js.map": "/spacex_galaxy/static/js/main.cb023a3a.js.map",
+    "main.cb5e1e83.css.map": "/spacex_galaxy/static/css/main.cb5e1e83.css.map",
+    "main.9f613f7b.js.map": "/spacex_galaxy/static/js/main.9f613f7b.js.map",
     "526.3cbc2012.chunk.js.map": "/spacex_galaxy/static/js/526.3cbc2012.chunk.js.map",
     "232.67edcd1b.chunk.js.map": "/spacex_galaxy/static/js/232.67edcd1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64d2849e.css",
-    "static/js/main.cb023a3a.js"
+    "static/css/main.cb5e1e83.css",
+    "static/js/main.9f613f7b.js"
   ]
 }
