@@ -12,7 +12,7 @@ const Form = () => {
                 <label><sup>*</sup>제목 (subject)</label>
                 <input type='text'></input>
                 <label><sup>*</sup>내용 (details)</label>
-                <textarea rows='6' placeholder='Type a short message here' />
+                <textarea rows='6' placeholder='내용을 기재해 주세요.' />
                 <button className='btn'>Submit</button>
             </form>
         </div>
