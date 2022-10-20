@@ -1,5 +1,6 @@
 ## ReactJS 및 Spline 3D를 사용한 SpaceX 웹페이지
-<img src="https://img.shields.io/badge/Material UI-007FFF?style=flat-square&logo=MUI&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Material UI-007FFF?style=flat-square&logo=MUI&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>
@@ -12,6 +13,7 @@
 Spline을 사용하여 3D 모델 출력
 
 ## 사용된 기술
+- ReactJS
 - Material-UI
 - Axios
 - Redux
